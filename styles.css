@@ -1,0 +1,32 @@
+/** Simple reset **/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html,
+.container {
+	width: 100%;
+	height: 100%;
+}
+
+#turquoise {
+	background: #1abc9c;
+}
+
+#pumpkin {
+	background: #d35400;
+}
+
+#midnight-blue {
+	background: #2c3e50;
+}
+
+#blueberry-soda {
+	background: #7f8fa6;
+}
+
+#matt-purple {
+	background: #8c7ae6;
+}
