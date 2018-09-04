@@ -39,17 +39,27 @@ ul {
 	transform: translateY(-50%);
 	z-index: 10;
 }
+
 li {
 	background: white;
-	margin-bottom: 5px;
 	border-radius: 0 5px 5px 0;
 }
-a {
+
+li a {
 	display: block;
 	padding: 5px 10px 5px 5px;
 	text-decoration: none;
 	color: black;
-	text-transform: lowercase;
+}
+
+.matt-purple p {
+	position: absolute;
+	display: block;
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%);
+	transform: translateX(-50%);
+	text-align: center;
 }
 
 
